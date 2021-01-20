@@ -18,6 +18,10 @@ if (answer3 == "2021") {
 }
 
 
+let answer4 = prompt("10+25/5+54*5-15*3/250-1=?")
+if (answer4 == "0") {
+    result = result + 10
+}
 
 
 
