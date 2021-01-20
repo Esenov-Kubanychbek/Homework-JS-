@@ -45,6 +45,10 @@ if (answer8 == "1918") {
 }
 
 
+let answer9 = prompt("what is the name of the seventh planet from the sun?")
+if (answer9 == "Uran") {
+    result = result + 10
+}
 
 
 
