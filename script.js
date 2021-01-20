@@ -23,6 +23,10 @@ if (answer4 == "0") {
     result = result + 10
 }
 
+let answer5 = prompt("what year did World War 2 begin?")
+if (answer5 == "1941") {
+    result = result + 10
+}
 
 
 
