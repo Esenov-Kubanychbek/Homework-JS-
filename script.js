@@ -57,3 +57,4 @@ if (answer10 == "Uran") {
 }
 
 
+console.log("You've earned " + result + " points!")
