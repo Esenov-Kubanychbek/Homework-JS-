@@ -39,6 +39,11 @@ if (answer7 == "1914") {
 }
 
 
+let answer8 = prompt("what year did World War 1 end?")
+if (answer8 == "1918") {
+    result = result + 10
+}
+
 
 
 
