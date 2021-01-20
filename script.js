@@ -6,6 +6,11 @@ if (answer1 == "ECMAScript") {
 }
 
 
+let answer2 = prompt("what year was JS invented?")
+if (answer2 == "1995") {
+    result = result + 10
+}
+
 
 
 
