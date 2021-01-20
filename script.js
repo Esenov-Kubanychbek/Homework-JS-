@@ -51,4 +51,9 @@ if (answer9 == "Uran") {
 }
 
 
+let answer10 = prompt("how many planets are in the solar system?")
+if (answer10 == "Uran") {
+    result = result + 10
+}
+
 
