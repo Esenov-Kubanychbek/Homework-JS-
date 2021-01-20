@@ -32,6 +32,12 @@ let answer6 = prompt("what year did World War 2 end?")
 if (answer6 == "1945") {
     result = result + 10
 }
+ 
+let answer7 = prompt("what year did World War 1 begin?")
+if (answer7 == "1914") {
+    result = result + 10
+}
+
 
 
 
