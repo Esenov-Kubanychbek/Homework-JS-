@@ -12,6 +12,11 @@ if (answer2 == "1995") {
 }
 
 
+let answer3 = prompt("What is the year now?")
+if (answer3 == "2021") {
+    result = result + 10
+}
+
 
 
 
